@@ -9,7 +9,7 @@ title = ""
 
 I'm a graduate student at Georgia Tech studying autonomy, robotics and control theory. 
 
-I'm passionate about building autonomous systems with strong safety guarantees in dynamic environments, which I'm working on at the [Safe Robotics Lab](https://saferoboticslab.me.gatech.edu/).
+I'm passionate about building autonomous systems with strong safety guarantees in dynamic environments, which I'm working on at the [Safe Robotics Lab](https://saferoboticslab.me.gatech.edu/) and the [C3U Lab](https://sites.gatech.edu/c3uae/).
 
 In the past, I have
 - developed perception and planning algorithms for quadrotors at [Purdue](https://engineering.purdue.edu/PURT)

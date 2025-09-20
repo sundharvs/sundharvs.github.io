@@ -19,4 +19,9 @@ In the past, I have
 Check out my [LinkedIn](https://www.linkedin.com/in/sundharvs/) or  [GitHub](https://github.com/sundharvs)
 
 ### Publications
-- [Seeing, Saying, Solving: An LLM-to-TL Framework for Cooperative Robots](https://arxiv.org/abs/2505.13376)
+1. **Vinodh Sangeetha, S.**, Chiu, C. Y., Li, S. H. Q., & Kousik, S. (2025). Language Conditioning Improves Accuracy of Aircraft Goal Prediction in Untowered Airspace. arXiv preprint arXiv:2509.14063.
+
+    [PDF](https://arxiv.org/pdf/2509.14063)
+2. Choe, D. B., **Vinodh Sangeetha, S.**, Emanuel, S., Chiu, C. Y., Coogan, S., & Kousik, S. (2025). Seeing, Saying, Solving: An LLM-to-TL Framework for Cooperative Robots. arXiv preprint arXiv:2505.13376.
+    
+    [PDF](https://arxiv.org/pdf/2505.13376)

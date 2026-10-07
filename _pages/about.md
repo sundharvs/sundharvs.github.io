@@ -23,10 +23,10 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am a first-year Robotics PhD student at the [Safe Robotics Lab](https://saferoboticslab.me.gatech.edu/) at Georgia Tech advised by Prof. Shreyas Kousik. 
+I am a Robotics PhD student at Georgia Tech advised by Prof. Shreyas Kousik. 
 
 In the past, I have:
 
 - Developed models and control algorithms for fluid systems (BE4 rocket engine, New Glenn ground systems) at Blue Origin
-- Verified aircraft control systems using model-based simulations at Gulfstream
-- Wrote LIDAR mapping and path planning software for GPS-denied quadrotors at [Purdue UAS Research and Test Facility](https://engineering.purdue.edu/PURT)
+- Verified aircraft control software using model-based simulations at Gulfstream
+- Wrote LIDAR mapping, path planning, and mesh network software for GPS-denied quadrotors at [Purdue UAS Research and Test Facility](https://engineering.purdue.edu/PURT)

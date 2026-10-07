@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I succesfully defended my MS thesis: "Applying Language Understanding to Motion Prediction and Planning for Autonomous Systems"
+I defended my MS thesis: "Applying Language Understanding to Motion Prediction and Planning for Autonomous Systems"
